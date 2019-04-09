@@ -1,2 +1,5 @@
 - email_dir: 'emails'
 - tweet_dir: 'tweets'
+- emails_to_send: 
+  - 'musthu.gm@gmail.com'
+  - '4sf15cs085@sahyadri.edu.in'

@@ -1,5 +1,5 @@
-- email_dir: 'emails'
-- tweet_dir: 'tweets'
-- emails_to_send: 
+email_dir: 'emails'
+tweet_dir: 'tweets'
+email_recipients: 
   - 'musthu.gm@gmail.com'
   - '4sf15cs085@sahyadri.edu.in'

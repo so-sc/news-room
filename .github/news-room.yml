@@ -1,0 +1,24 @@
+email_dir: 'emails'
+tweet_dir: 'tweets'
+email_recipients: 
+  - buzz:
+    - 'dailybuzz@sahyadri.edu.in'
+    - 'sosc@sahyadri.edu.in'
+  - group:
+    - 'so-sc@googlegroups.com'
+    - 'sosc@sahyadri.edu.in'
+  - core_team:
+    - 'musthu.gm@gmail.com'
+    - 'sosc@sahyadri.edu.in'
+  - test:
+    - 'musthu.gm@gmail.com'
+    - 'sosc@sahyadri.edu.in'
+    - 'sosc.bit@gmail.com'
+admins:
+  - 'haxzie'
+  - 'AbhiiGatty'
+  - 'akshayrb22'
+  - 'akashdeepb'
+  - 'coderhawk999'
+  - 'navyabhat98'
+  - 'Basavarajeshwari-Ambi'

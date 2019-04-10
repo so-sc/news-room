@@ -1,16 +1,16 @@
 email_dir: 'emails'
 tweet_dir: 'tweets'
 email_recipients: 
-  - buzz:
+  buzz:
     - 'dailybuzz@sahyadri.edu.in'
     - 'sosc@sahyadri.edu.in'
-  - group:
+  group:
     - 'so-sc@googlegroups.com'
     - 'sosc@sahyadri.edu.in'
-  - core_team:
+  core_team:
     - 'musthu.gm@gmail.com'
     - 'sosc@sahyadri.edu.in'
-  - test:
+  test:
     - 'musthu.gm@gmail.com'
     - 'sosc@sahyadri.edu.in'
     - 'sosc.bit@gmail.com'

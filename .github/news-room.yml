@@ -13,7 +13,7 @@ email_recipients:
   test:
     - 'musthu.gm@gmail.com'
     - 'sosc@sahyadri.edu.in'
-    - 'sosc.bit@gmail.com'
+    - 'sosc.bot@gmail.com'
 admins:
   - 'haxzie'
   - 'AbhiiGatty'

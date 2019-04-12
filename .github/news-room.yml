@@ -12,7 +12,6 @@ email_recipients:
     - 'sosc@sahyadri.edu.in'
   test:
     - 'musthu.gm@gmail.com'
-    - 'sosc@sahyadri.edu.in'
     - 'sosc.bot@gmail.com'
 admins:
   - 'haxzie'

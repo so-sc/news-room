@@ -13,7 +13,7 @@ This repository stores all the contents that's been sent to Sahyadri Buzz and ot
 ### How to submit?
 - Open an issue in this repository with title as the subject of the Email
 - Write down the body of the email in the body of the Issue.
-- To add images, simple drag and drop the images from your computer to the text box.
+- To add images, copy paste the GoogleDrive URL of the image or simple drag and drop the images from your computer to the text box.
 - Request an admin to approve the issue, or if you are an admin or owner of the repo. Comment '/approve' or add the label `Approved` to the issue.
 - Once the issue is approved, you can send the mails to any of the mailing list listed in the `.github/news-room.yml` by simply commenting `/mail to GROUP_NAME` eg: `/mail to buzz`.
 - To test out the email before mailing anyone, we highly recomment you to mail the email to your personal email or the test emails by `/mail to test` or `/mail to youremail@example.com`
